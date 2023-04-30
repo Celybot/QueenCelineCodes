@@ -1,0 +1,69 @@
+
+ body{
+    background-color: black;
+    color: #fff;
+ }
+ .info-section{
+    display: flex;
+ }
+ .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    color: #fff;
+    border-top: #fff;
+    border-bottom: #fff;
+  }
+  
+  .navbar ul {
+    display: flex;
+    margin: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  .navbar li {
+    margin: 0 1rem;
+    list-style-type: none
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: #fff;
+  }
+  .display-2 {
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 1.2; 
+}
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+ }
+ .text-darkgrey {
+    color:  purple;  
+
+}
+.photo-container {
+    position: relative;
+    width: 100%;
+  }
+  
+  .overlay {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 10px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
