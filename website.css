@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color: #ffff;
+}
+.Buttons{
+    width: 80px;
+    margin: 0;
+    display: flex;
+    display: inline-block;
+}
+.Celine{
+    background-color: #292C71;
+}
+.Seperator{
+    background-color: #292C71;
+    width: 70%;
+    height: 6px;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-linkedin {
+    background: #292C71;
+    color: white;
+   
+}
+.fa-github{
+    background: #B936DA;
+    color: white;
+}
+.fa-medium{
+    background: grey;
+    color: white;
+}
+
